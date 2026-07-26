@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://file.garden/aWda6_hwaGcNwjuj/Untitled223_20260726005200.png" width="250" align="center">
+<img src="https://file.garden/aWda6_hwaGcNwjuj/Untitled223_20260726005200.png" width="225" align="center">
 
 <sub> ${\textsf{\color{#FFFFFF}c+h}}$
 ${\textsf{\color{#}welcome}}$
