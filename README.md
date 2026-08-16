@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://file.garden/aWda6_hwaGcNwjuj/Untitled152_20260523231956.png" width="250" align="center">
+<img src="https://file.garden/aWda6_hwaGcNwjuj/Untitled230_20260816151240.png" width="350" align="center">
 
 <sub> ${\textsf{\color{#FFFFFF}I will}}$
 ${\textsf{\color{#}be the}}$
