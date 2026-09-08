@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://file.garden/aWda6_hwaGcNwjuj/Untitled230_20260816151240.png" width="350" align="center">
+<img src="https://file.garden/aWda6_hwaGcNwjuj/Untitled182_20260620074739.png" width="190" align="center">
 
 <sub> ${\textsf{\color{#FFFFFF}I}}$
 ${\textsf{\color{#}will}}$
